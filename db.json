@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
@@ -35,6 +29,30 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Apples",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Bananass",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Pie",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Cheese",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
     }
   ]
 }
